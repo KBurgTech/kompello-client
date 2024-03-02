@@ -1,0 +1,33 @@
+{
+    "helloworld": "Hello World!",
+    "titles": {
+        "dashboard": "Dashboard",
+        "customers": "Kunden",
+        "bills": "Rechnungen"
+    },
+    "longTitles": {
+        "userSettings": "Nutzer Einstellungen",
+        "userSecuritySettings": "Nutzer Sicherheitseinstellungen",
+        "userPermissions": "Nutzer Berechtigungen"
+    },
+    "options": {
+        "edit": "Bearbeiten",
+        "delete": "Löschen",
+        "add": "Hinzufügen",
+        "save": "Speichern",
+        "update": "Aktualisieren",
+        "settings": "Einstellungen",
+        "signout": "Abmelden",
+        "profile": "Profil",
+        "security": "Sicherheit",
+        "permissions": "Berechtigungen",
+        "appearance": "Erscheinungsbild",
+        "password": "Passwort"
+    },
+    "profile": {
+        "email": "Email",
+        "firstname": "Vorname",
+        "lastname": "Nachname",
+        "longDescription": "So werden Sie von anderen Benutzern auf dieser Website und in E-Mails gesehen"
+    }
+}

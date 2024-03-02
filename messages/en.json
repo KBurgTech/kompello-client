@@ -1,0 +1,33 @@
+{
+    "helloworld": "Hello World!",
+    "titles": {
+        "dashboard": "Dashboard",
+        "customers": "Customers",
+        "bills": "Bills"
+    },
+    "longTitles": {
+        "userSettings": "User Settings",
+        "userSecuritySettings": "User Security Settings",
+        "userPermissions": "User Permissions"
+    },
+    "options": {
+        "edit": "Edit",
+        "delete": "Delete",
+        "add": "Add",
+        "save": "Save",
+        "update": "Update",
+        "settings": "Settings",
+        "signout": "Sign Out",
+        "profile": "Profile",
+        "security": "Security",
+        "permissions": "Permissions",
+        "appearance": "Appearance",
+        "password": "Password"
+    },
+    "profile": {
+        "email": "Email",
+        "firstname": "First Name",
+        "lastname": "Last Name",
+        "longDescription": "This is how other users will see you on this site and in emails."
+    }
+}
